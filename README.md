@@ -8,8 +8,8 @@ SprintFlow is a full-stack project management tool built with:
 
 ## 🌐 Live Links
 
-- 🔗 Frontend: https://sprintflow.vercel.app
-- 🔗 Backend: https://sprintflow-backend.onrender.com
+- 🔗 Frontend: https://sprintflow-brown.vercel.app/
+- 🔗 Backend: https://sprintflow-gz5f.onrender.com/
 
 ## 🧰 Features
 
