@@ -39,7 +39,7 @@ cd project-management-tool
 cd backend && npm install && npm start
 # Frontend
 cd ../frontend && npm install && npm start
-
+```
 
 ## 🧪 Test Credentials (for demo)
 
